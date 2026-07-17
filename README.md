@@ -47,7 +47,3 @@ The model was created in Fusion 360 and exported as STL files for 3D printing an
 ## Author
 
 V
-
-## License
-
-This project was created for educational and training purposes.
